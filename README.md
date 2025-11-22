@@ -49,9 +49,9 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test:
 
-$$|S.NO|VOLATAGE(V)|CURRENT(I)|$$
-$$|:-----:|:-------:|:-------:|$$
-$$|1|115|0.12|$$
+$$ |S.NO|VOLATAGE(V)|CURRENT(I)| $$
+$$ |:-----:|:-------:|:-------:| $$
+$$ |1|115|0.12| $$
 Tabulation for Load Test:
 
 Model graph:
