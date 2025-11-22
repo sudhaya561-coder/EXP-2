@@ -60,6 +60,7 @@ Tabulation for Open Circuit Test:
 
 Tabulation for Load Test:
 |S.NO|CURRENT(A)|VOLTAGE(V)|
+|:-----:|:------------:|:------------:|
  |1|1.2|220|
  |2|2.8|212|
  |3|3.2|208|
