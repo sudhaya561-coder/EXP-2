@@ -49,8 +49,7 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test:
 
- $$ \begin{tabular}{|c|c|c|}
-\hline $$
+|S.NO|voltage(V)|current(I)|
 
 Tabulation for Load Test:
 
