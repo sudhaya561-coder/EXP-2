@@ -51,6 +51,10 @@ Tabulation for Open Circuit Test:
 
 |S.NO|voltage(V)|current(I)|
 
+|:-----:|:-----------:|:----------:|
+
+|1|0.2|115|
+
 Tabulation for Load Test:
 
 Model graph:
