@@ -49,11 +49,12 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test:
 
-|S.NO|voltage(V)|current(I)|
+$$ |S.NO|voltage(V)|current(I)| $$
 
-|:-----:|:-----------:|:----------:|
+$$ |:-----:|:-----------:|:----------:| $$
 
-|1|0.2|115|
+$$ |1|0.2|115| $$
+$$ |2|0.3|120| $$
 
 Tabulation for Load Test:
 
